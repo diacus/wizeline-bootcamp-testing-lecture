@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`examples of some things 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL ivCekc"
+  >
+    <div
+      class="sc-bdvvtL sc-gsDKAQ dOtxPc eEPFrg"
+      display="flex"
+    >
+      <input
+        class="sc-bdvvtL sc-gsDKAQ sc-gKclnd dOtxPc eEPFrg yyZpN"
+        display="flex"
+        id="user-input"
+        placeholder="Nombre"
+      />
+    </div>
+    <div
+      class="sc-bdvvtL sc-gsDKAQ dOtxPc eEPFrg"
+      display="flex"
+    >
+      <button
+        class="sc-bdvvtL sc-hKwDye ivCekc hKqRVc"
+      >
+        Click me!
+      </button>
+    </div>
+    <div
+      class="sc-bdvvtL sc-gsDKAQ dOtxPc eEPFrg"
+      display="flex"
+    >
+      <div
+        class="sc-bdvvtL sc-iqseJM kLzALT hkpbPB"
+        color="black"
+        data-testid="user-field-output"
+      >
+        Hola mi nombre es 
+        Cosme Fulanito
+      </div>
+    </div>
+  </div>
+</div>
+`;
